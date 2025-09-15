@@ -1,6 +1,3 @@
-# Verdad Peronista 01 
-## La verdadera democracia es aquella donde el gobierno hace lo que el pueblo quiere y defiende un solo interes: el del pueblo
-
 # Análisis de la Democracia: Contexto para la "Verdad Peronista 01"
 
 ## Introducción: La "Verdadera Democracia" y sus Implicancias Constitucionales
@@ -75,7 +72,7 @@ Esta reforma fue crucial y representó un quiebre ideológico significativo.
 *   **Reformas importantes desde el punto de vista de la democracia y el Estado:**
     *   **Reelección Presidencial:** Eliminó la prohibición de la reelección consecutiva, permitiendo la reelección indefinida (Artículo 78).
     *   **Rol del Estado y Propiedad:** Subordinó el derecho de propiedad privada al "bien común" y a la intervención del Estado. A diferencia del liberalismo, el peronismo veía al Estado no como una amenaza, sino como el principal instrumento para la justicia social y el bienestar colectivo.
-    *   **Intervención Económica:** Amplió las facultades del Estado para intervenir en la economía, nacionalizar servicios públicos y regular la actividad privada, lo que contradecía el concepto de gobierno limitado de 1853.
+    *   **Intervención Económica:** Amplió las facultades para intervenir en la economía, nacionalizar servicios públicos y regular la actividad privada, lo que contradecía el concepto de gobierno limitado de 1853.
 
 ### 2.3. La Constitución de 1949 y su "Pérdida de Vigencia"
 
@@ -121,29 +118,7 @@ La Constitución de 1949 transformó al Estado en un **protagonista o motor de l
 
 *   **Nacionalización de Servicios y Recursos (Artículo 40 de 1949):**
     *   Otorgó al Estado el derecho de gestionar empresas y servicios estratégicos (ferrocarriles, teléfonos, gas, electricidad) para asegurar su acceso a toda la población sin afán de lucro.
-    *   Declaró los recursos naturales (minerales, yacimientos, caídas de agua) como propiedad inalienable e imprescriptible de la Nación, impidiendo su explotación privada exclusiva.
-*   **Subordinación del Capital y la Economía (Artículo 39 de 1949):**
-    *   Estableció que "el capital debe estar al servicio de la economía nacional y tener como principal objeto el bienestar social". Esto facultó al Estado para controlar inversiones, intervenir mercados y regular precios en pos de la justicia social.
-*   **Función Social de la Propiedad (Artículo 38 de 1949):**
-    *   "La propiedad privada tiene una función social y, en consecuencia, estará sometida a las obligaciones que establezca la ley con fines de bien común." Esto contrasta fuertemente con la inviolabilidad absoluta de la propiedad en la Constitución liberal.
-
-## 3. El Rol del Estado: De Árbitro Liberal a Protagonista Social (1853 vs. 1949)
-
-La diferencia fundamental entre las concepciones democráticas de 1853 y 1949 radica en el **rol del Estado**, lo cual es central para entender la "Verdad Peronista 01".
-
-### 3.1. La Constitución de 1853: El Estado como Árbitro
-
-La Constitución de 1853 concebía un Estado limitado, cuya función principal era la de **árbitro o juez**. Su tarea era proteger los derechos individuales (propiedad, libertad de comercio) y asegurar las reglas del mercado, sin intervenir activamente en la economía. Se esperaba que el libre juego del mercado generara desarrollo y prosperidad.
-
-*   **Artículo 17 de 1853:** "La propiedad es inviolable, y ningún habitante de la Confederación puede ser privado de ella sino en virtud de sentencia fundada en ley. La expropiación por causa de utilidad pública, debe ser calificada por ley y previamente indemnizada."
-
-### 3.2. La Constitución de 1949: El Estado como Protagonista
-
-La Constitución de 1949 transformó al Estado en un **protagonista o motor de la economía y la sociedad**. Ya no era un mero árbitro, sino un jugador activo con la potestad de dirigir el rumbo económico para lograr el bienestar colectivo y la justicia social.
-
-*   **Nacionalización de Servicios y Recursos (Artículo 40 de 1949):**
-    *   Otorgó al Estado el derecho de gestionar empresas y servicios estratégicos (ferrocarriles, teléfonos, gas, electricidad) para asegurar su acceso a toda la población sin afán de lucro.
-    *   Declaró los recursos naturales (minerales, yacimientos, caídas de agua) como propiedad inalienable e imprescriptible de la Nación, impidiendo su explotación privada exclusiva.
+    *   Declaró los recursos naturales (minerales, yacimientos, caídas de agua) como propiedad inalienable e imprescriptible de la Nación, impidiendo su explotación privada exclusiva. **Este enfoque de propiedad nacional permitía que las decisiones sobre su uso y destino se tomaran en función del interés general de toda la nación, y no solo de una provincia.** Por ejemplo, un yacimiento como Vaca Muerta, bajo esta concepción, podría haberse gestionado para hacer más económica la energía a nivel país, fomentar la fabricación de bienes exportables con valor agregado, y así generar divisas y empleo que beneficiaran a todas las provincias, en lugar de concentrar la riqueza en una única jurisdicción con un modelo predominantemente extractivo.
 *   **Subordinación del Capital y la Economía (Artículo 39 de 1949):**
     *   Estableció que "el capital debe estar al servicio de la economía nacional y tener como principal objeto el bienestar social". Esto facultó al Estado para controlar inversiones, intervenir mercados y regular precios en pos de la justicia social.
 *   **Función Social de la Propiedad (Artículo 38 de 1949):**
@@ -162,6 +137,6 @@ La Constitución de 1949 transformó al Estado en un **protagonista o motor de l
 
 La "Verdad Peronista 01" trasciende la mera aspiración y se convierte en una crítica directa a la arquitectura constitucional de un país. Al analizar la evolución de la democracia argentina a través de sus reformas constitucionales, observamos cómo cada período intentó definir esa "verdadera democracia" de acuerdo a su ideología dominante.
 
-Mientras la Constitución de 1853 (y la actual, en esencia) consagra una democracia liberal representativa con un Estado árbitro y limitado, la Constitución de 1949 planteó un modelo de democracia social, con un Estado protagonista y director de la economía, enfocado en la justicia social y el bienestar colectivo. La "verdadera democracia" peronista, entonces, implicaría una Constitución que empodere al Estado como garante de los intereses populares, transformando el concepto de propiedad y capital en función de un proyecto colectivo.
+Mientras la Constitución de 1853 (y la actual, en esencia) consagra una democracia liberal representativa con un Estado árbitro y limitado, la Constitución de 1949 planteó un modelo de democracia social, con un Estado protagonista y director de la economía, enfocado en la justicia social y el bienestar colectivo. La "verdadera democracia" peronista, entonces, implicaría una Constitución que empodere al Estado como garante de los intereses populares, transformando el concepto de propiedad y capital en función de un proyecto colectivo, y permitiendo una gestión de recursos naturales orientada al beneficio de toda la nación.
 
 Entender estas diferencias es clave para interpretar las tensiones históricas y las continuas discusiones sobre el modelo de país que Argentina desea construir y el tipo de democracia que mejor se ajusta a esa visión.
