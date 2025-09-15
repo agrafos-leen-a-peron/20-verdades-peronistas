@@ -12,9 +12,9 @@ Posteriormente se convoco a eleccion de convencionales constituyentes, con la pr
 
 Esa convencion restauro la vigencia de la constitucion de 1853, e incluyo el art 14 bis.
 
-El capitulo IV de la constitucion de 1949:
+# Constitucion de 1949 - Capitulo IV
 
-## La FuNcióN sociaL de La ProPiedad, eL caPitaL y La actividad ecoNóMica
+### La funcion social de la propiedad, el capital y la actividad economica
 
 ### Art. 38. 
 La propiedad privada tiene una función social y, en consecuencia, estará sometida a las obligaciones que establezca la ley con fines de bien común.
