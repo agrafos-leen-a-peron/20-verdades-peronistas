@@ -3,6 +3,10 @@
 Habla de una "verdadera" democracia. 
 
 En Argentina rige la constitucion de Alberdi de 1853 porque se derogo inconstitucionalmente la constitucion de 1949.
+A la constitucion de Alberdi se la caracteriza como liberal representativa.
+Se le dice liberal porque considera que el Estado tiene que tener poderes muy limitados en comparacion con la libertad de los individuos que busca idealmente ser absoluta.
+Ademas, considera que la propiedad privada es inviolable.
+Los presidentes solo pueden ser reelectos una vez, con un periodo presidencial en el medio y nada mas.
 
 Se suspendio su vigencia con un bando militar el 16 de Setiembre de 1955.
 
@@ -34,3 +38,26 @@ Los minerales, las caídas de agua, los yacimientos de petróleo, de carbón y d
  Los servicios públicos pertenecen originariamente al estado, y bajo ningún concepto podrán ser enajenados o concedidos para su explotación. Los que se hallaren en poder de particulares serán transferidos al estado, mediante compra o expropiación con indemnización previa, cuando una ley nacional lo determine.
 
  el precio por la expropiación de empresas concesionarias de servicios públicos será el del costo de origen de los bienes afectados a la explotación, menos las sumas que se hubieren amortizado durante el lapso cumplido desde el otorgamiento de la concesión, y los excedentes sobre una ganancia razonable, que serán considerados también como reintegración del capital invertido.
+
+# Constitucion Alberdi 1853
+
+## Artículo 17.
+
+La propiedad es inviolable, y ningun habitante de la Confederacion puede ser privado de ella sinó en virtud de sentencia fundada en ley. 
+La expropiacion por causa de utilidad pública, debe ser calificada por ley y previamente indemnizada. 
+Solo el Congreso impone las contribuciones que se expresan en el artículo 4°. 
+Ningun servicio personal es exigible, sino en virtud de ley ó de sentencia fundada en ley. 
+Todo autor ó inventor es propietario exclusivo de su obra, invento ó descubrimiento, por el término que le acuerde la ley. 
+La confiscacion de bienes queda borrada para siempre del código penal Argentino. 
+Ningun cuerpo armado puede hacer requisiciones ni exija auxilios de ninguna especie.
+
+## Artículo 74.
+
+El Presidente y Vice-Presidente duran en sus empleos el término de seis años; y no pueden ser reelegidos sino con intervalo de un período.
+
+# Constitucion 1949
+
+## Art. 78. 
+
+el presidente y el vicepresidente duran en sus cargos seis años; y pueden ser reelegidos
+
