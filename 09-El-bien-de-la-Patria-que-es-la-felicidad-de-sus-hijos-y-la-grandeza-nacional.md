@@ -57,8 +57,6 @@ Este esquema demuestra que en cada nivel de análisis, desde el más amplio hast
 
 ---
 
-### **Conclusión Final: La Política como Instrumento para la Plena Realización Nacional y Humana**
-
 La Verdad Peronista N° 9, en profunda articulación con la Verdad N° 8, ofrece la **finalidad última y el propósito intrínseco de toda acción política peronista.**
 
 *   Define la política no como un fin en sí misma, sino como un **poderoso medio** para construir "el bien de la Patria".
