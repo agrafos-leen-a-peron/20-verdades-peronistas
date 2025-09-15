@@ -1,4 +1,6 @@
-La "Verdad Peronista N° 3" reza: **"El peronista trabaja para el Movimiento. El que en su nombre sirve a un círculo, o a un caudillo, lo es solo de nombre."** Esta verdad complementa y agudiza los conceptos que veníamos desarrollando, funcionando como una **alerta interna crucial: si la Verdad N° 2 era una crítica al modelo de democracia liberal-partidaria como "antipopular" por sus divisiones y la contaminación de los intereses genuinos del pueblo, la Verdad N° 3 es una advertencia contra la infiltración y contaminación de esos mismos mecanismos viciados hacia adentro del propio peronismo.** Establece, así, un claro imperativo ético y de lealtad doctrinal para cada adherente.
+La "Verdad Peronista N° 3" reza: **"El peronista trabaja para el Movimiento. El que en su nombre sirve a un círculo, o a un caudillo, lo es solo de nombre."** 
+
+Esta verdad complementa y agudiza los conceptos que veníamos desarrollando, funcionando como una **alerta interna crucial: si la Verdad N° 2 era una crítica al modelo de democracia liberal-partidaria como "antipopular" por sus divisiones y la contaminación de los intereses genuinos del pueblo, la Verdad N° 3 es una advertencia contra la infiltración y contaminación de esos mismos mecanismos viciados hacia adentro del propio peronismo.** Establece, así, un claro imperativo ético y de lealtad doctrinal para cada adherente.
 
 Esta tercera verdad se divide en dos afirmaciones centrales, ambas enlazadas indisolublemente con la concepción filosófica de la Verdad N° 2:
 
