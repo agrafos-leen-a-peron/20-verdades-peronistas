@@ -60,9 +60,9 @@ Esta Constitución es considerada liberal porque:
 
 Sin embargo, esta configuración no siempre fue la única o la más aceptada en la historia argentina.
 
-### 2.1. Reformas Constitucionales Clave
+### 2.1. Reformas Constitucionales 
 
-La Constitución de 1853 fue objeto de varias reformas que moldearon la democracia argentina:
+La Constitución de 1853 fue objeto de varias reformas que no alteraron la democracia argentina:
 
 *   **1860:** Fortaleció la autonomía provincial (Artículo 5º), incorporó derechos de navegación y comercio, y otorgó mayor autonomía fiscal a las provincias.
 *   **1866:** No afectó directamente la democracia, sino que buscó solucionar problemas fiscales del gobierno nacional, permitiendo la imposición de derechos de importación.
