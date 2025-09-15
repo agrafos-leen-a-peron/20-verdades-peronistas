@@ -127,19 +127,6 @@ La Constitución de 1949 transformó al Estado en un **protagonista o motor de l
 *   **Función Social de la Propiedad (Artículo 38 de 1949):**
     *   "La propiedad privada tiene una función social y, en consecuencia, estará sometida a las obligaciones que establezca la ley con fines de bien común." Esto contrasta fuertemente con la inviolabilidad absoluta de la propiedad en la Constitución liberal.
 
-
-Tienes toda la razón. Mis disculpas por no haber generado la tabla de comparación de manera adecuada para GitHub Markdown. El problema es la longitud excesiva del contenido en las celdas, lo que dificulta la legibilidad y el renderizado en plataformas como GitHub.
-
-He reformulado la tabla para que sea concisa y apropiada, utilizando referencias a los artículos que ya has proporcionado en el texto.
-
-Aquí tienes la versión corregida:
-
-code
-Markdown
-download
-content_copy
-expand_less
-
 ## 3. El Rol del Estado: De Árbitro Liberal a Protagonista Social (1853 vs. 1949)
 
 La diferencia fundamental entre las concepciones democráticas de 1853 y 1949 radica en el **rol del Estado**, lo cual es central para entender la "Verdad Peronista 01".
