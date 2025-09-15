@@ -3,9 +3,13 @@
 Habla de una "verdadera" democracia. 
 
 En Argentina rige la constitucion de Alberdi de 1853 porque se derogo inconstitucionalmente la constitucion de 1949.
+
 Se suspendio su vigencia con un bando militar el 16 de Setiembre de 1955.
+
 Se la derogo totalmente mediante decreto 229/1956.
+
 Posteriormente se convoco a eleccion de convencionales constituyentes, con la proscripcion del peronismo (que era la fuerza mayoritaria en ese momento).
+
 Esa convencion restauro la vigencia de la constitucion de 1853, e incluyo el art 14 bis.
 
 El capitulo IV de la constitucion de 1949:
