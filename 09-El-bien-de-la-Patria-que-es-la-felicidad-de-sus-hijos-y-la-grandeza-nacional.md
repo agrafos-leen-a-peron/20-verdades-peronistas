@@ -8,3 +8,27 @@ Para el peronismo la politica es el medio para:
   
   - la felicidad de los hijos de la Patria (no solamente de los peronistas).
   - la grandeza nacional.
+
+En mi opinion, se contradice con la verdad 8 que dice que en la accion politica viene:
+  - la Patria,
+  - el Movimiento,
+  - los hombres.
+
+Pareciera que la 8 se podria descomponer como la 9:
+
+En la accion politica, la escala de valores es la siguiente:
+
+- la Patria:
+  -  el Movimiento
+  -  los hombres
+
+  Si los hijos de la Patria son el Movimiento y los hombres, luego vendria la grandeza nacional.
+
+Pareceria que se podria armar esta escala:
+
+- el bien de la Patria
+  - los hijos de la Patria
+    - el Movimiento
+    - los hombres
+  - la grandeza nacional
+    
