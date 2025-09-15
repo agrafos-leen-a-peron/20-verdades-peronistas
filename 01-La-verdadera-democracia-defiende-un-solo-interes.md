@@ -41,6 +41,13 @@ La estructura del poder ejecutivo y legislativo también define el tipo de democ
     *   El Primer Ministro y su gabinete provienen de la mayoría del parlamento y dependen de su confianza para gobernar.
     *   No hay una separación tan rígida entre los poderes ejecutivo y legislativo; a menudo se considera que están "fusionados". Si el primer ministro pierde el apoyo parlamentario, puede ser obligado a renunciar o puede convocar a nuevas elecciones.
 
+### 1.3. Un Modelo Híbrido de Representación: La Constitución del Chaco (1951)
+
+En la historia constitucional argentina, existieron ejemplos de democracias que buscaron innovar en las formas de representación, alejándose del modelo puramente partidocrático. Un gran ejemplo de esto fue la **Constitución de la Provincia Presidente Perón (actual Chaco)**, sancionada en 1951.
+
+*   **Innovación en la Representación:** Su **Artículo 33°** determinaba que la Legislatura Provincial estaría formada por mitades: una mitad proveniente de los partidos políticos y la otra mitad compuesta por miembros de las entidades profesionales y elegidos por los miembros de dichas asociaciones.
+*   **Contexto y Objetivo:** Esta iniciativa, en línea con la Constitución Nacional de 1949, buscaba una "democracia pluralista, participativa y por la consecución del bien común". Implicaba una visión de la representación que integraba directamente a las organizaciones sociales y laborales en el poder legislativo, buscando una expresión más directa de los "intereses del pueblo trabajador".
+
 ## 2. La Forma de la Democracia Argentina: Un Recorrido Histórico-Constitucional
 
 Actualmente, en Argentina rige la **Constitución de Alberdi de 1853**, con sus reformas posteriores, tras la derogación de la Constitución de 1949. Se la caracteriza como **liberal representativa**.
@@ -53,9 +60,9 @@ Esta Constitución es considerada liberal porque:
 
 Sin embargo, esta configuración no siempre fue la única o la más aceptada en la historia argentina.
 
-### 2.1. Reformas Constitucionales 
+### 2.1. Reformas Constitucionales Clave
 
-La Constitución de 1853 fue objeto de varias reformas que no alteraron la democracia argentina:
+La Constitución de 1853 fue objeto de varias reformas que moldearon la democracia argentina:
 
 *   **1860:** Fortaleció la autonomía provincial (Artículo 5º), incorporó derechos de navegación y comercio, y otorgó mayor autonomía fiscal a las provincias.
 *   **1866:** No afectó directamente la democracia, sino que buscó solucionar problemas fiscales del gobierno nacional, permitiendo la imposición de derechos de importación.
@@ -137,6 +144,6 @@ La Constitución de 1949 transformó al Estado en un **protagonista o motor de l
 
 La "Verdad Peronista 01" trasciende la mera aspiración y se convierte en una crítica directa a la arquitectura constitucional de un país. Al analizar la evolución de la democracia argentina a través de sus reformas constitucionales, observamos cómo cada período intentó definir esa "verdadera democracia" de acuerdo a su ideología dominante.
 
-Mientras la Constitución de 1853 (y la actual, en esencia) consagra una democracia liberal representativa con un Estado árbitro y limitado, la Constitución de 1949 planteó un modelo de democracia social, con un Estado protagonista y director de la economía, enfocado en la justicia social y el bienestar colectivo. La "verdadera democracia" peronista, entonces, implicaría una Constitución que empodere al Estado como garante de los intereses populares, transformando el concepto de propiedad y capital en función de un proyecto colectivo, y permitiendo una gestión de recursos naturales orientada al beneficio de toda la nación.
+Mientras la Constitución de 1853 (y la actual, en esencia) consagra una democracia liberal representativa con un Estado árbitro y limitado, la Constitución de 1949 planteó un modelo de democracia social, con un Estado protagonista y director de la economía, enfocado en la justicia social y el bienestar colectivo. La "verdadera democracia" peronista, entonces, implicaría una Constitución que empodere al Estado como garante de los intereses populares, transformando el concepto de propiedad y capital en función de un proyecto colectivo, y permitiendo una gestión de recursos naturales orientada al beneficio de toda la nación, con ejemplos innovadores de representación como el de la Constitución del Chaco.
 
 Entender estas diferencias es clave para interpretar las tensiones históricas y las continuas discusiones sobre el modelo de país que Argentina desea construir y el tipo de democracia que mejor se ajusta a esa visión.
